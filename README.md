@@ -60,6 +60,9 @@ Escape character is '^]'.
 IND,17176
 ```
 
+## Data
+
+The world boundaries were generated using QGIS, converted to a set of ~350 million geohashes at precision level 6 and then reduced (compressed) to a set of ~5 million geohashes using [georaptor](https://github.com/ashwin711/georaptor). 
 
 
 ## Contributors
@@ -68,7 +71,7 @@ Sooraj B - [@soorajb](http://github.com/soorajb)
 
 Ashwin Nair - [@ashwin711](http://github.com/ashwin711)
 
-Harikrishnan Shaji - [@hihari777](http://github.com/hihari777)
+Harikrishnan Shaji - [@har777](http://github.com/har777)
 
 ## License
 
